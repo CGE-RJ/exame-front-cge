@@ -1,0 +1,20 @@
+# Node modules
+/node_modules/
+/.next/
+
+# Arquivos de log
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de configuração
+.env
+
+# Arquivos de construção
+/build/
+
+# Dependências específicas do sistema
+npm-debug.log
+yarn-error.log
